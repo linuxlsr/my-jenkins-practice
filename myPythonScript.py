@@ -2,7 +2,7 @@
 import sys
 from pprint import pprint
 pprint(sys.argv)
-'''
+
 stringParameter = sys.argv[1]
 firstNumber = sys.argv[2]
 secondNumber = sys.argv[3]
@@ -15,4 +15,3 @@ print("The second number is " + secondNumber)
 thisSum = firstNumber + secondNumber
 print("the sum of " + firstNumber + "and " + secondNumber + " is " + thisSum)
 print("That is all, Happy New Year!")
-'''
