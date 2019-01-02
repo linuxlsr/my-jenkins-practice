@@ -7,3 +7,4 @@ echo "the sum of $firstNumber and $secondNumber is"
 $sum = $firstNumber + $secondNumber
 echo $sum
 echo "that is all, have a nice day!" 
+echo "test of polling scm to build"
