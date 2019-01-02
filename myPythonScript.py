@@ -1,4 +1,4 @@
-/usr/bin/python
+#!/usr/bin/python
 
 print("this is a test of the python script build")
 print($stringParameter)
